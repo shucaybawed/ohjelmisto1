@@ -5,6 +5,3 @@ print(f"Terve, {nimi}!")
 
 
 
-
-
-

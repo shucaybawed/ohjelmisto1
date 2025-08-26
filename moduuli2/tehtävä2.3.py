@@ -5,3 +5,4 @@ piiri = 2 * (kanta + korkeus)
 print(f"Suorakulmion pinta-ala on {pinta_ala:.2f}")
 print(f"Suorakulmion piiri on {piiri:.2f}")
 
+
