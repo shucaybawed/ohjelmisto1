@@ -4,3 +4,4 @@ if 100<=pituus<=140:
 elif pituus>=140:
     print("saa mennä kaikkiin laitteisiin:")
 
+
